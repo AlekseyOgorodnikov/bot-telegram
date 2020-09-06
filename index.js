@@ -41,4 +41,4 @@ bot.on('text', async (ctx) => {
 
 bot.hears('hi', (ctx) => ctx.reply('Привет всем!'))
 bot.startPolling()
-console.log('BOT is reade!!!')
+console.log('BOT is ready!!!')
